@@ -1,0 +1,6 @@
+x1<-as.integer(c(2,3,4,5))
+typeof(x1)
+class(x1)
+y.matrix <- matrix(x1, nrow=2, ncol=2)
+typeof(y.matrix)
+class(y.matrix)
